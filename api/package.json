@@ -8,7 +8,7 @@
     "@vercel/node": "^3.0.17"
   },
   "dependencies": {
-    "@farcaster/hub-nodejs": "^0.10.21",
+    "@farcaster/hub-nodejs": "^0.11.23",
     "satori": "^0.10.13",
     "sharp": "^0.33.2"
   }
